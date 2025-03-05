@@ -1,4 +1,4 @@
-![Banner](https://ibb.co/pvzYDwSz)
+![Banner](https://source.unsplash.com/1600x400/?technology,code)
 👋 Hola, soy Oscar!
 
 🚀 Estudiante de Desarrollo de Aplicaciones Multiplataforma (DAM) | 📱 Apasionado por Android y Kotlin
