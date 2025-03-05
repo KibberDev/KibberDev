@@ -1,16 +1,15 @@
-## Hi there 👋
+👋 Hola, soy Oscar!
 
-<!--
-**KibberDev/KibberDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Estudiante de Desarrollo de Aplicaciones Multiplataforma (DAM) | 📱 Apasionado por Android y Kotlin
+📌 Sobre mí
 
-Here are some ideas to get you started:
+    🎓 Aprendiendo y mejorando en Kotlin, Java y desarrollo Android
+    🛠 Explorando bases de datos, APIs y arquitectura de aplicaciones
+    💡 Apasionado por la tecnología y el aprendizaje continuo
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🛠 Tecnologías con las que trabajo
+
+💻 Lenguajes: Kotlin, Java, Python
+📱 Desarrollo Móvil: Android Studio, Jetpack Compose
+🗄️ Bases de Datos: SQLite, Room, Firebase
+🛠 Herramientas: Git, GitHub, Postman
