@@ -4,8 +4,8 @@
 
 📌 Sobre mí
 
-    Apasionado por el mundo de lainformática desde pequeño,
-    finalmente me aventuré a dar elpaso y cambiar de sector 
+    Apasionado por el mundo de la informática desde pequeño,
+    finalmente me aventuré a dar el paso y cambiar de sector 
     para dedicarme en exclusiva al desarrollo de software.
     Cambiando los documentos jurídicos por infinitas líneas decódigo.
 
