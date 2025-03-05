@@ -1,6 +1,7 @@
 👋 Hola, soy Oscar!
 
 🚀 Estudiante de Desarrollo de Aplicaciones Multiplataforma (DAM) | 📱 Apasionado por Android y Kotlin
+
 📌 Sobre mí
 
     🎓 Aprendiendo y mejorando en Kotlin, Java y desarrollo Android
@@ -10,6 +11,9 @@
 🛠 Tecnologías con las que trabajo
 
 💻 Lenguajes: Kotlin, Java, Python
+
 📱 Desarrollo Móvil: Android Studio, Jetpack Compose
+
 🗄️ Bases de Datos: SQLite, Room, Firebase
+
 🛠 Herramientas: Git, GitHub, Postman
