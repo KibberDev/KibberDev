@@ -1,4 +1,3 @@
-![Mi Banner](assets/PIXELART-DEV.webp)
 👋 Hola, soy Oscar!
 
 🚀 Estudiante de Desarrollo de Aplicaciones Multiplataforma (DAM) | 📱 Apasionado por Android y Kotlin
