@@ -4,9 +4,10 @@
 
 📌 Sobre mí
 
-    🎓 Aprendiendo y mejorando en Kotlin, Java y desarrollo Android
-    🛠 Explorando bases de datos, APIs y arquitectura de aplicaciones
-    💡 Apasionado por la tecnología y el aprendizaje continuo
+    Apasionado por el mundo de lainformática desde pequeño,
+    finalmente me aventuré a dar elpaso y cambiar de sector 
+    para dedicarme en exclusiva al desarrollo de software.
+    Cambiando los documentos jurídicos por infinitas líneas decódigo.
 
 🛠 Tecnologías con las que trabajo
 
