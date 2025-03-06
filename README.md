@@ -1,4 +1,4 @@
-<img src="https://i.ibb.co/7xk7vZVY/PIXELART-DEV.webp" alt="PIXELART-DEV" border="0">
+<img src="https://i.ibb.co/1J26r5JD/DALL-E-2025-03-06-02-28-09-A-pixel-art-scene-of-a-developer-sitting-at-a-desk-coding-on-a-computer-T.webp" alt="DALL-E-2025-03-06-02-28-09-A-pixel-art-scene-of-a-developer-sitting-at-a-desk-coding-on-a-computer-T" border="0">
 👋 Hola, soy Oscar!
 
 🚀 Estudiante de Desarrollo de Aplicaciones Multiplataforma (DAM) | 📱 Apasionado por Android y Kotlin
