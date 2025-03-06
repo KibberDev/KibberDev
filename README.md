@@ -1,3 +1,4 @@
+<img src="https://i.ibb.co/nqPhrYfg/PIXELART-DEV.webp" alt="PIXELART-DEV" border="0">
 👋 Hola, soy Oscar!
 
 🚀 Estudiante de Desarrollo de Aplicaciones Multiplataforma (DAM) | 📱 Apasionado por Android y Kotlin
