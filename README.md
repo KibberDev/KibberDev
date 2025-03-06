@@ -10,7 +10,7 @@
     para dedicarme en exclusiva al desarrollo de software.
     Cambiando los documentos jurídicos por infinitas líneas decódigo.
 
-<h3 align="center>🛠 Tecnologías con las que trabajo:
+🛠 Tecnologías con las que trabajo:
 
 💻 Lenguajes: Kotlin, Java, Python
 
@@ -18,4 +18,4 @@
 
 🗄️ Bases de Datos: SQLite, MongoDB, Firebase
 
-🛠 Herramientas: Git, GitHub</h3>
+🛠 Herramientas: Git, GitHub
