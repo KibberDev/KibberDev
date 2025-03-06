@@ -1,7 +1,7 @@
 
 <h1 align="center">👋 Hola, soy Oscar!</h1>
 
-🚀 Estudiante de Desarrollo de Aplicaciones Multiplataforma (DAM) | 📱 Apasionado por Android y Kotlin
+<h3 align="center">🚀 Estudiante de Desarrollo de Aplicaciones Multiplataforma (DAM) | 📱 Apasionado por Android y Kotlin</h3>
 
 📌 Sobre mí
 
