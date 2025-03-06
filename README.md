@@ -3,7 +3,7 @@
 
 <h3 align="center">🚀 Estudiante de Desarrollo de Aplicaciones Multiplataforma (DAM) | 📱 Apasionado por Android y Kotlin</h3>
 
-📌 Sobre mí
+<h3 align="center">📌 Sobre mí
 
     Apasionado por el mundo de la informática desde pequeño,
     finalmente me aventuré a dar el paso y cambiar de sector 
@@ -18,4 +18,4 @@
 
 🗄️ Bases de Datos: SQLite, Room, Firebase
 
-🛠 Herramientas: Git, GitHub, Postman
+🛠 Herramientas: Git, GitHub, Postman</h3>
