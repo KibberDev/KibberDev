@@ -5,12 +5,12 @@
 
 <h3 align="center">📌 Sobre mí</h3>
 
-    Apasionado por el mundo de la informática desde pequeño,
+    <h2 align="center">Apasionado por el mundo de la informática desde pequeño,
     finalmente me aventuré a dar el paso y cambiar de sector 
     para dedicarme en exclusiva al desarrollo de software.
-    Cambiando los documentos jurídicos por infinitas líneas decódigo.
+    Cambiando los documentos jurídicos por infinitas líneas decódigo.</h2>
 
-🛠 Tecnologías con las que trabajo:
+<h3 align="center">🛠 Tecnologías con las que trabajo:
 
 💻 Lenguajes: Kotlin, Java, Python
 
@@ -18,4 +18,4 @@
 
 🗄️ Bases de Datos: SQLite, MongoDB, Firebase
 
-🛠 Herramientas: Git, GitHub
+🛠 Herramientas: Git, GitHub</h3>
