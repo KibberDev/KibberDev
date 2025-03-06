@@ -1,4 +1,4 @@
-<img src="https://i.ibb.co/chwKRc1F/top.webp" alt="top" border="0"></a><br /><a target='_blank' href='https://es.imgbb.com/'>
+<img src="https://i.ibb.co/chwKRc1F/top.webp" alt="top" border="0"></a><br/><a target='_blank' href='https://es.imgbb.com/'>
 👋 Hola, soy Oscar!
 
 🚀 Estudiante de Desarrollo de Aplicaciones Multiplataforma (DAM) | 📱 Apasionado por Android y Kotlin
